@@ -10,13 +10,4 @@
 
 <br>
 
-<p align="center" style="font-family: 'Modam Bold', sans-serif; font-size: 32px;">
-  اکسترو معاملات ایمن
-</p>
-
-<style>
-@font-face {
-  font-family: 'Modam Bold';
-  src: url('https://minecraft-fa/modam-bold.ttf') format('truetype');
-}
-</style>
+<h2 align="center"><b>اکسترو معاملات ایمن</b></h2>
