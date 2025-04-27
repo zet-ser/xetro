@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="static/img/xetro-logo.png" alt="Xetro Logo" width="200"/>
+</p>
+
 # 🔥 **اکسترو - پلتفرم معاملاتی خرید و فروش کانال، پیج و گروه در روبیکا** 🔥
 
 ## 🚀 **معرفی اکسترو**
