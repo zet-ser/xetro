@@ -1,34 +1,50 @@
-<p align="center">
-  <img src="static/img/xetro-logo.png" alt="Xetro Logo" width="200"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/zet-ser/xetro/main/assets/logo.png" alt="Xetro Logo" width="200"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/rubika-xetro-4caf50?style=for-the-badge" alt="Rubika Badge"/>
-  <img src="https://img.shields.io/badge/xetro-bot-2196f3?style=for-the-badge" alt="Bot Badge"/>
-  <img src="https://img.shields.io/badge/xetro-python-ff5722?style=for-the-badge" alt="Python Badge"/>
-</p>
+# Xetro
 
-<br>
+**Xetro** یک پلتفرم نوآورانه برای خرید و فروش کانال، گروه و پیج در روبیکاست!
 
-<h2 align="center"><b>اکسترو معاملات ایمن</b></h2>
+[مشاهده سایت](https://zet-ser.github.io/xetro/) • [گزارش باگ](https://github.com/zet-ser/xetro/issues)
 
-<p align="center">
-  ![معاملات ماهانه](https://quickchart.io/chart?c={
-    type:'line',
-    data:{
-      labels:['دی','بهمن','اسفند','فروردین','اردیبهشت'],
-      datasets:[{
-        label:'تعداد معاملات',
-        data:[10,20,50,80,120]
-      }]
-    }
-  })
-</p>
-# سلام
+</div>
 
-این یه متن معمولیه.
+---
 
-<MyCoolButton />
+## ویژگی‌ها
 
-بزن روی دکمه بالا!
+- معامله‌ی امن و مطمئن بین کاربران
+- طراحی سبک و سریع
+- استفاده از HTML و CSS سنتی
+- بدون نیاز به بک‌اند یا پایگاه داده
+- آماده‌ی اتصال به ربات‌های خودکار روبیکا
 
+---
+
+## پیش‌نمایش
+
+![Xetro Screenshot](https://raw.githubusercontent.com/zet-ser/xetro/main/assets/preview.png)
+
+---
+
+## چگونه مشارکت کنیم؟
+
+۱. پروژه را Fork کنید  
+۲. تغییرات خود را اعمال کنید  
+۳. Pull Request ارسال کنید
+
+---
+
+## مجوز
+
+این پروژه تحت مجوز MIT ارائه شده است.  
+برای اطلاعات بیشتر [LICENSE](https://github.com/zet-ser/xetro/blob/main/LICENSE) را ببینید.
+
+---
+
+<div align="center">
+
+ساخته شده با عشق توسط [Zet-Ser](https://github.com/zet-ser)  
+© 2025 Xetro
+
+</div>
