@@ -22,3 +22,9 @@
     }]
   }
 })
+
+<p align="center">
+  <a href="https://rubika.ir/xetro" target="_blank">
+    <img src="https://img.shields.io/badge/Join_Us_on_Rubika-4CAF50?style=for-the-badge&logo=rubika&logoColor=white" alt="Join Us on Rubika"/>
+  </a>
+</p>
