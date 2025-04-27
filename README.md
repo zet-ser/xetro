@@ -2,6 +2,11 @@
   <img src="static/img/xetro-logo.png" alt="Xetro Logo" width="200"/>
 </p>
 
+<p align="center">
+  <b>تگ‌ها:</b>  
+  <code>#اکسترو</code> <code>#روبیکا</code> <code>#ربات</code> <code>#پایتون</code> <code>#Xetro</code> <code>#Rubika</code> <code>#Bot</code> <code>#Python</code>
+</p>
+
 # 🔥 **اکسترو - پلتفرم معاملاتی خرید و فروش کانال، پیج و گروه در روبیکا** 🔥
 
 ## 🚀 **معرفی اکسترو**
